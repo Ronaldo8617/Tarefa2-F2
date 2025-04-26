@@ -1,4 +1,4 @@
-# Identificador de Resistores - BitDogLab (Sistemas Embarcados)
+# Ohmímetro - BitDogLab (Sistemas Embarcados)
 
 ## 📌 Sumário  
 - [📹 Demonstração](#-demonstração)  
