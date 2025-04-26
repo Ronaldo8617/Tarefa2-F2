@@ -1,4 +1,4 @@
-# Projeto de Medidor de Resistores - BitDogLab (Sistemas Embarcados)
+# Identificador de Resistores - BitDogLab (Sistemas Embarcados)
 
 ## 📌 Sumário  
 - [📹 Demonstração](#-demonstração)  
