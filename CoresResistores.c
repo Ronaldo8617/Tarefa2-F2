@@ -123,13 +123,7 @@ int main() {
         char band3[10];
         if (exp >= 0 && exp <= 9) {
             strcpy(band3, color_names[exp]);
-        } else if (exp == -1) {
-            strcpy(band3, "Dourado");
-        } else if (exp == -2) {
-            strcpy(band3, "Prata");
-        } else {
-            strcpy(band3, "??");
-        }
+        } 
 
         // Exibe no OLED
         ssd1306_fill(&oled, false);
