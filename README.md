@@ -11,7 +11,7 @@
 - [👨‍💻 Autor](#-autor)  
 
 ## 📹 Demonstração  
-[clique aqui para acessar o vídeo](https://youtu.be/l4Crf1CP6mE)
+[clique aqui para acessar o vídeo](https://youtu.be/_i7lHrQA3NY)
 
 ## 🎯 Objetivo  
 Desenvolver um sistema embarcado capaz de medir o valor de um resistor desconhecido utilizando a placa BitDogLab com o microcontrolador RP2040. O valor medido é exibido em um display OLED, junto com as bandas de cores equivalentes, baseando-se nos padrões de resistores comerciais. O projeto ainda permite resetar o sistema através do botão BOOTSEL.  
